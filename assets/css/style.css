@@ -236,7 +236,7 @@ html {
 
 .slider-background {
     padding-top: 50%;
-    background: url(/assets/css/img/slider/slider1.jpg) top center / cover no-repeat;
+    background: url(img/slider/slider1.jpg) top center / cover no-repeat;
     margin-top: 46PX;
     position: relative;
 }
